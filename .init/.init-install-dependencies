@@ -1,0 +1,4 @@
+{
+    "command": "npm install",
+    "working_directory": "/tmp/kavia/workspace/code-generation/tictac-ai-match-623951-ab91e613/game_frontend"
+}
